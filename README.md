@@ -1,6 +1,7 @@
 # Grid / Subgrid Exercise
 
-> [!WARNING] Do not check the final folder until you finish your css
+> [!CAUTION]
+> Do not check the final folder until you finish your css
 
 ## Exercise
 
