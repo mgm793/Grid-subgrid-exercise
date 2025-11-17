@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --max-content: 1000px;
+    --min-padding: 10px;
+    --header-height: 50px;
+    --footer-height: 60px;
+    --main-height: calc(calc(100dvh - var(--header-height)) - var(--footer-height));
+    --max-columns-width: calc(var(--max-content) / 3);
+    --columns-gap: 10px;
+    --item-height: 100px;
+}
+
+body{
+
+}
+
+header{
+
+}
+
+footer{
+
+}
+
+main{
+
+
+}
